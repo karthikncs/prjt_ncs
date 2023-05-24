@@ -15,7 +15,9 @@
 
 
 total_bill_amount = 100 + (100*12/100) - (100*10/100)
+print ("*"*100)
 print (total_bill_amount)
+
 
 
 
