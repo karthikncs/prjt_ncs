@@ -1,0 +1,11 @@
+num_float = 12.3
+num_str = "456"
+
+#print (type(num_float))
+#print (type(num_str))
+
+num_float = str(num_float)
+print (type(num_float))
+
+num_str = float(num_str)
+print (type(num_str))
